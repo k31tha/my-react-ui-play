@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "my-react-ui-play",
+  "workspaces": [
+    "ui-play-data",
+    "tailwindcss-ui"
+  ],
+  "scripts": {}
+}

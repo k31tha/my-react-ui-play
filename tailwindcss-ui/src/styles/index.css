@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.menu-opened {
+  @apply md:hidden;
+}
+.menu-closed {
+  @apply hidden md:hidden;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@nlsplay/ui-play-data",
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "private": true,
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
